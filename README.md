@@ -1,6 +1,8 @@
 #include "iostream"
 
-void main () {
+void main () 
+
+{
 
 char a=’*’;
 
