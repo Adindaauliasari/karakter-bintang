@@ -4,7 +4,7 @@ void main ()
 
 {
 
-char a=’*’;
+char a= ’*’ ;
 
 int f,i,c;
 
