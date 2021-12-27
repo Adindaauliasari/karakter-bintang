@@ -6,7 +6,7 @@ void main ()
 
 char a= ’*’ ;
 
-int f,i,c;
+int f,i,c ;
 
 cout<<“masukan nilai tinggi:”;
 
