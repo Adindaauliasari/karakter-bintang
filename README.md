@@ -10,11 +10,11 @@ int f,i,c ;
 
 cout<<“masukan nilai tinggi:”;
 
-cin>>f;
+cin>> f;
 
 for(i=1; i<=f; i++){
 
-cout<<a;
+cout<< a;
 
 if(i==1)
 
@@ -26,9 +26,9 @@ if(i==3)
 
 for(c=1; c<=3; c++)
 
-cout<<a;
+cout<< a;
 
-cout<<endl;
+cout<< endl;
 
 }
 
